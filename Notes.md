@@ -4,10 +4,16 @@
 
 ### View / Inspect
 #### View entire dataframe
-`View(dataframe)`
+```R
+View(dataframe)
+```
 
 #### View top few rows
-`head(dataframe)`
+```R
+head(dataframe)
+```
 
 #### View bottom few rows
-`tail(dataframe)`
+```R
+tail(dataframe)
+```
